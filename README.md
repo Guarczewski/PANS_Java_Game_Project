@@ -11,19 +11,22 @@ Open store to change weapon or buff yourself.
 Finish quests to get money.
 
 Gameplay Preview
-https://github.com/Guarczewski/PANS_Java_Game_Project/assets/31183760/63b4e145-7a1b-4410-8de7-94cac271fc8b
+https://github.com/Guarczewski/PANS_Java_Game_Project/assets/31183760/efb7120e-9235-494d-bffc-7ad09bbea8c5
+
 
 Fully Opened Main Menu
-![Zrzut ekranu 2023-05-28 181255](https://github.com/Guarczewski/PANS_Java_Game_Project/assets/31183760/54f3ec93-8d5c-4179-8815-4ec7452e4ee4)
+![Zrzut ekranu 2023-05-28 181255](https://github.com/Guarczewski/PANS_Java_Game_Project/assets/31183760/f48ae882-583c-41ea-8ccd-d17d8cc0b2a5)
 
 Ingame Shop Preview
-![Zrzut ekranu 2023-05-28 181112](https://github.com/Guarczewski/PANS_Java_Game_Project/assets/31183760/aa7b18d5-86ac-4a3e-baad-d6bd21821512)
+![Zrzut ekranu 2023-05-28 181112](https://github.com/Guarczewski/PANS_Java_Game_Project/assets/31183760/49be7fa5-c6ac-4ae1-9cb1-8871bf33ec0f)
+
 
 Ingame Scoreboard Preview
-![Zrzut ekranu 2023-05-28 181039](https://github.com/Guarczewski/PANS_Java_Game_Project/assets/31183760/d926def6-b098-4893-9094-1ef8e5961dc6)
+![Zrzut ekranu 2023-05-28 181039](https://github.com/Guarczewski/PANS_Java_Game_Project/assets/31183760/2bab0aad-b931-42cc-9a67-177b3427917a)
+
 
 Ingame PlayerList Preview
-![Zrzut ekranu 2023-05-28 181009](https://github.com/Guarczewski/PANS_Java_Game_Project/assets/31183760/7469650c-759a-4fae-9db4-34e77f9abb21)
+![Zrzut ekranu 2023-05-28 181009](https://github.com/Guarczewski/PANS_Java_Game_Project/assets/31183760/990dbe09-fea9-4117-922d-626325ba20f1)
 
 
 To do list:
