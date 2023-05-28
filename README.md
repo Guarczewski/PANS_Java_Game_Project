@@ -26,11 +26,11 @@ Ingame PlayerList Preview
 ![Zrzut ekranu 2023-05-28 181009](https://github.com/Guarczewski/PANS_Java_Game_Project/assets/31183760/7469650c-759a-4fae-9db4-34e77f9abb21)
 
 
-#To do list:
+To do list:
 1. Add ability to change ip address in game (Currently you can change it only in Source Code)
 2. Translate documentation to english.
 3. Work on optimalisation (Because there is alway something to do with it)
 
-#Known bugs:
+Known bugs:
 0. Currently I'am not aware of any, if you find anything please let me know
 
