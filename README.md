@@ -27,10 +27,12 @@ Ingame PlayerList Preview
 
 
 To do list:
+
 1. Add ability to change ip address in game (Currently you can change it only in Source Code)
 2. Translate documentation to english.
 3. Work on optimalisation (Because there is alway something to do with it)
 
 Known bugs:
+
 0. Currently I'am not aware of any, if you find anything please let me know
 
